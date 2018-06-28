@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMagic8Ball</string>
+    <string name= "question_text">Do you want to ask the magic 8 ball a question</string>
+
+</resources>
